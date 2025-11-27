@@ -1,0 +1,4 @@
+curl http://localhost:5000/debug/db
+curl http://localhost:5000/api/cars
+curl http://localhost:5000/api/bookings
+curl http://localhost:5000/api/images
