@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Rental Service (Vite + React)
 
 This project is a simple car rental service single-page app with a small backend for demo purposes.
@@ -159,3 +160,7 @@ curl -X POST http://localhost:5000/api/bookings -H "Content-Type: application/js
 # list bookings
 curl http://localhost:5000/api/bookings
 ```
+=======
+# car-rental-service
+🚗 Car Rental Service – Project Description  The Car Rental Service is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to browse, book, and manage rental cars easily. This system provides a smooth ride for customers to explore available vehicles, check pricing, choose rental dates,
+>>>>>>> 89aeb2da1424bff85ebd365889098c11f8bca724
